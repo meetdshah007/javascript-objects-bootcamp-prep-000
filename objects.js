@@ -1,3 +1,3 @@
-var playlist = {
+let playlist = {
   song: "abc"
 };
